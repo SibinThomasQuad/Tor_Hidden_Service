@@ -1,6 +1,6 @@
 Here's a `README.md` for your script:
 
-```markdown
+
 # Tor Hidden Service Setup
 
 This Python script sets up a Tor hidden service using the `stem` library. The script launches a Tor process, creates a hidden service, and then outputs the `.onion` address for accessing the service.
